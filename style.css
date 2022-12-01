@@ -87,7 +87,7 @@ body {
   marginheight="0";
   width=298;
   height=52;
-  border=none;
+  border=1px solid black;
 }
 
 @-webkit-keyframes spin {
