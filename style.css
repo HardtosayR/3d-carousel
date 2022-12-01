@@ -81,13 +81,6 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  frameborder="no";
-  border="0";
-  marginwidth="0";
-  marginheight="0";
-  width=298;
-  height=52;
-  border=1px solid black;
 }
 
 @-webkit-keyframes spin {
